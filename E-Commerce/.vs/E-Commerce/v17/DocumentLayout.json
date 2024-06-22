@@ -1,0 +1,105 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\Lenovo\\Desktop\\E-Commerce Angular\u002BAsp.Net API\\E-Commerce\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{6EA856E5-09CD-4C2B-85A5-4CDE09C44828}|Infrastructure\\E-Commerce.Persistence\\E-Commerce.Persistence.csproj|c:\\users\\lenovo\\desktop\\e-commerce angular\u002Basp.net api\\e-commerce\\infrastructure\\e-commerce.persistence\\serviceregistration.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{6EA856E5-09CD-4C2B-85A5-4CDE09C44828}|Infrastructure\\E-Commerce.Persistence\\E-Commerce.Persistence.csproj|solutionrelative:infrastructure\\e-commerce.persistence\\serviceregistration.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{6EA856E5-09CD-4C2B-85A5-4CDE09C44828}|Infrastructure\\E-Commerce.Persistence\\E-Commerce.Persistence.csproj|c:\\users\\lenovo\\desktop\\e-commerce angular\u002Basp.net api\\e-commerce\\infrastructure\\e-commerce.persistence\\contexts\\applicationapidbcontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{6EA856E5-09CD-4C2B-85A5-4CDE09C44828}|Infrastructure\\E-Commerce.Persistence\\E-Commerce.Persistence.csproj|solutionrelative:infrastructure\\e-commerce.persistence\\contexts\\applicationapidbcontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{865AB943-1D74-4C3B-924B-BB8C957C8AB1}|Core\\E-Commerce.Domain\\E-Commerce.Domain.csproj|c:\\users\\lenovo\\desktop\\e-commerce angular\u002Basp.net api\\e-commerce\\core\\e-commerce.domain\\entities\\order.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{865AB943-1D74-4C3B-924B-BB8C957C8AB1}|Core\\E-Commerce.Domain\\E-Commerce.Domain.csproj|solutionrelative:core\\e-commerce.domain\\entities\\order.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{865AB943-1D74-4C3B-924B-BB8C957C8AB1}|Core\\E-Commerce.Domain\\E-Commerce.Domain.csproj|c:\\users\\lenovo\\desktop\\e-commerce angular\u002Basp.net api\\e-commerce\\core\\e-commerce.domain\\entities\\customer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{865AB943-1D74-4C3B-924B-BB8C957C8AB1}|Core\\E-Commerce.Domain\\E-Commerce.Domain.csproj|solutionrelative:core\\e-commerce.domain\\entities\\customer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{865AB943-1D74-4C3B-924B-BB8C957C8AB1}|Core\\E-Commerce.Domain\\E-Commerce.Domain.csproj|c:\\users\\lenovo\\desktop\\e-commerce angular\u002Basp.net api\\e-commerce\\core\\e-commerce.domain\\entities\\product.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{865AB943-1D74-4C3B-924B-BB8C957C8AB1}|Core\\E-Commerce.Domain\\E-Commerce.Domain.csproj|solutionrelative:core\\e-commerce.domain\\entities\\product.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 0,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "ServiceRegistration.cs",
+              "DocumentMoniker": "C:\\Users\\Lenovo\\Desktop\\E-Commerce Angular\u002BAsp.Net API\\E-Commerce\\Infrastructure\\E-Commerce.Persistence\\ServiceRegistration.cs",
+              "RelativeDocumentMoniker": "Infrastructure\\E-Commerce.Persistence\\ServiceRegistration.cs",
+              "ToolTip": "C:\\Users\\Lenovo\\Desktop\\E-Commerce Angular\u002BAsp.Net API\\E-Commerce\\Infrastructure\\E-Commerce.Persistence\\ServiceRegistration.cs",
+              "RelativeToolTip": "Infrastructure\\E-Commerce.Persistence\\ServiceRegistration.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAsAAACsAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-06-22T12:42:52.493Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "ApplicationAPIDbContext.cs",
+              "DocumentMoniker": "C:\\Users\\Lenovo\\Desktop\\E-Commerce Angular\u002BAsp.Net API\\E-Commerce\\Infrastructure\\E-Commerce.Persistence\\Contexts\\ApplicationAPIDbContext.cs",
+              "RelativeDocumentMoniker": "Infrastructure\\E-Commerce.Persistence\\Contexts\\ApplicationAPIDbContext.cs",
+              "ToolTip": "C:\\Users\\Lenovo\\Desktop\\E-Commerce Angular\u002BAsp.Net API\\E-Commerce\\Infrastructure\\E-Commerce.Persistence\\Contexts\\ApplicationAPIDbContext.cs",
+              "RelativeToolTip": "Infrastructure\\E-Commerce.Persistence\\Contexts\\ApplicationAPIDbContext.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAABAAAAAoAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-06-22T12:32:08.096Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "Product.cs",
+              "DocumentMoniker": "C:\\Users\\Lenovo\\Desktop\\E-Commerce Angular\u002BAsp.Net API\\E-Commerce\\Core\\E-Commerce.Domain\\Entities\\Product.cs",
+              "RelativeDocumentMoniker": "Core\\E-Commerce.Domain\\Entities\\Product.cs",
+              "ToolTip": "C:\\Users\\Lenovo\\Desktop\\E-Commerce Angular\u002BAsp.Net API\\E-Commerce\\Core\\E-Commerce.Domain\\Entities\\Product.cs",
+              "RelativeToolTip": "Core\\E-Commerce.Domain\\Entities\\Product.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAwAAAAqAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-06-22T12:24:42.417Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "Customer.cs",
+              "DocumentMoniker": "C:\\Users\\Lenovo\\Desktop\\E-Commerce Angular\u002BAsp.Net API\\E-Commerce\\Core\\E-Commerce.Domain\\Entities\\Customer.cs",
+              "RelativeDocumentMoniker": "Core\\E-Commerce.Domain\\Entities\\Customer.cs",
+              "ToolTip": "C:\\Users\\Lenovo\\Desktop\\E-Commerce Angular\u002BAsp.Net API\\E-Commerce\\Core\\E-Commerce.Domain\\Entities\\Customer.cs",
+              "RelativeToolTip": "Core\\E-Commerce.Domain\\Entities\\Customer.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAsAAAAgAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-06-22T12:21:01.679Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "Order.cs",
+              "DocumentMoniker": "C:\\Users\\Lenovo\\Desktop\\E-Commerce Angular\u002BAsp.Net API\\E-Commerce\\Core\\E-Commerce.Domain\\Entities\\Order.cs",
+              "RelativeDocumentMoniker": "Core\\E-Commerce.Domain\\Entities\\Order.cs",
+              "ToolTip": "C:\\Users\\Lenovo\\Desktop\\E-Commerce Angular\u002BAsp.Net API\\E-Commerce\\Core\\E-Commerce.Domain\\Entities\\Order.cs",
+              "RelativeToolTip": "Core\\E-Commerce.Domain\\Entities\\Order.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAuwAsAAAArAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-06-22T12:00:29.598Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

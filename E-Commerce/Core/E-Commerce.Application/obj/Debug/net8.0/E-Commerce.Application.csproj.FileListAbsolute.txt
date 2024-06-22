@@ -1,0 +1,16 @@
+C:\Users\Lenovo\Desktop\E-Commerce Angular+Asp.Net API\E-Commerce\Core\E-Commerce.Application\bin\Debug\net8.0\E-Commerce.Application.deps.json
+C:\Users\Lenovo\Desktop\E-Commerce Angular+Asp.Net API\E-Commerce\Core\E-Commerce.Application\bin\Debug\net8.0\E-Commerce.Application.dll
+C:\Users\Lenovo\Desktop\E-Commerce Angular+Asp.Net API\E-Commerce\Core\E-Commerce.Application\bin\Debug\net8.0\E-Commerce.Application.pdb
+C:\Users\Lenovo\Desktop\E-Commerce Angular+Asp.Net API\E-Commerce\Core\E-Commerce.Application\bin\Debug\net8.0\E-Commerce.Domain.dll
+C:\Users\Lenovo\Desktop\E-Commerce Angular+Asp.Net API\E-Commerce\Core\E-Commerce.Application\bin\Debug\net8.0\E-Commerce.Domain.pdb
+C:\Users\Lenovo\Desktop\E-Commerce Angular+Asp.Net API\E-Commerce\Core\E-Commerce.Application\obj\Debug\net8.0\E-Commerce.Application.csproj.AssemblyReference.cache
+C:\Users\Lenovo\Desktop\E-Commerce Angular+Asp.Net API\E-Commerce\Core\E-Commerce.Application\obj\Debug\net8.0\E-Commerce.Application.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Lenovo\Desktop\E-Commerce Angular+Asp.Net API\E-Commerce\Core\E-Commerce.Application\obj\Debug\net8.0\E-Commerce.Application.AssemblyInfoInputs.cache
+C:\Users\Lenovo\Desktop\E-Commerce Angular+Asp.Net API\E-Commerce\Core\E-Commerce.Application\obj\Debug\net8.0\E-Commerce.Application.AssemblyInfo.cs
+C:\Users\Lenovo\Desktop\E-Commerce Angular+Asp.Net API\E-Commerce\Core\E-Commerce.Application\obj\Debug\net8.0\E-Commerce.Application.csproj.CoreCompileInputs.cache
+C:\Users\Lenovo\Desktop\E-Commerce Angular+Asp.Net API\E-Commerce\Core\E-Commerce.Application\obj\Debug\net8.0\E-Commerce.Application.sourcelink.json
+C:\Users\Lenovo\Desktop\E-Commerce Angular+Asp.Net API\E-Commerce\Core\E-Commerce.Application\obj\Debug\net8.0\E-Commer.B20A53FF.Up2Date
+C:\Users\Lenovo\Desktop\E-Commerce Angular+Asp.Net API\E-Commerce\Core\E-Commerce.Application\obj\Debug\net8.0\E-Commerce.Application.dll
+C:\Users\Lenovo\Desktop\E-Commerce Angular+Asp.Net API\E-Commerce\Core\E-Commerce.Application\obj\Debug\net8.0\refint\E-Commerce.Application.dll
+C:\Users\Lenovo\Desktop\E-Commerce Angular+Asp.Net API\E-Commerce\Core\E-Commerce.Application\obj\Debug\net8.0\E-Commerce.Application.pdb
+C:\Users\Lenovo\Desktop\E-Commerce Angular+Asp.Net API\E-Commerce\Core\E-Commerce.Application\obj\Debug\net8.0\ref\E-Commerce.Application.dll

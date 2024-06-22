@@ -1,0 +1,114 @@
+{
+  "version": 3,
+  "targets": {
+    "net8.0": {
+      "E-Commerce.Application/1.0.0": {
+        "type": "project",
+        "framework": ".NETCoreApp,Version=v8.0",
+        "dependencies": {
+          "E-Commerce.Domain": "1.0.0"
+        },
+        "compile": {
+          "bin/placeholder/E-Commerce.Application.dll": {}
+        },
+        "runtime": {
+          "bin/placeholder/E-Commerce.Application.dll": {}
+        }
+      },
+      "E-Commerce.Domain/1.0.0": {
+        "type": "project",
+        "framework": ".NETCoreApp,Version=v8.0",
+        "compile": {
+          "bin/placeholder/E-Commerce.Domain.dll": {}
+        },
+        "runtime": {
+          "bin/placeholder/E-Commerce.Domain.dll": {}
+        }
+      }
+    }
+  },
+  "libraries": {
+    "E-Commerce.Application/1.0.0": {
+      "type": "project",
+      "path": "../../Core/E-Commerce.Application/E-Commerce.Application.csproj",
+      "msbuildProject": "../../Core/E-Commerce.Application/E-Commerce.Application.csproj"
+    },
+    "E-Commerce.Domain/1.0.0": {
+      "type": "project",
+      "path": "../../Core/E-Commerce.Domain/E-Commerce.Domain.csproj",
+      "msbuildProject": "../../Core/E-Commerce.Domain/E-Commerce.Domain.csproj"
+    }
+  },
+  "projectFileDependencyGroups": {
+    "net8.0": [
+      "E-Commerce.Application >= 1.0.0"
+    ]
+  },
+  "packageFolders": {
+    "C:\\Users\\Lenovo\\.nuget\\packages\\": {}
+  },
+  "project": {
+    "version": "1.0.0",
+    "restore": {
+      "projectUniqueName": "C:\\Users\\Lenovo\\Desktop\\E-Commerce Angular+Asp.Net API\\E-Commerce\\Infrastructure\\E-Commerce.Infrastructure\\E-Commerce.Infrastructure.csproj",
+      "projectName": "E-Commerce.Infrastructure",
+      "projectPath": "C:\\Users\\Lenovo\\Desktop\\E-Commerce Angular+Asp.Net API\\E-Commerce\\Infrastructure\\E-Commerce.Infrastructure\\E-Commerce.Infrastructure.csproj",
+      "packagesPath": "C:\\Users\\Lenovo\\.nuget\\packages\\",
+      "outputPath": "C:\\Users\\Lenovo\\Desktop\\E-Commerce Angular+Asp.Net API\\E-Commerce\\Infrastructure\\E-Commerce.Infrastructure\\obj\\",
+      "projectStyle": "PackageReference",
+      "configFilePaths": [
+        "C:\\Users\\Lenovo\\AppData\\Roaming\\NuGet\\NuGet.Config",
+        "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
+      ],
+      "originalTargetFrameworks": [
+        "net8.0"
+      ],
+      "sources": {
+        "C:\\Program Files (x86)\\Microsoft SDKs\\NuGetPackages\\": {},
+        "https://api.nuget.org/v3/index.json": {}
+      },
+      "frameworks": {
+        "net8.0": {
+          "targetAlias": "net8.0",
+          "projectReferences": {
+            "C:\\Users\\Lenovo\\Desktop\\E-Commerce Angular+Asp.Net API\\E-Commerce\\Core\\E-Commerce.Application\\E-Commerce.Application.csproj": {
+              "projectPath": "C:\\Users\\Lenovo\\Desktop\\E-Commerce Angular+Asp.Net API\\E-Commerce\\Core\\E-Commerce.Application\\E-Commerce.Application.csproj"
+            }
+          }
+        }
+      },
+      "warningProperties": {
+        "warnAsError": [
+          "NU1605"
+        ]
+      },
+      "restoreAuditProperties": {
+        "enableAudit": "true",
+        "auditLevel": "low",
+        "auditMode": "direct"
+      }
+    },
+    "frameworks": {
+      "net8.0": {
+        "targetAlias": "net8.0",
+        "imports": [
+          "net461",
+          "net462",
+          "net47",
+          "net471",
+          "net472",
+          "net48",
+          "net481"
+        ],
+        "assetTargetFallback": true,
+        "warn": true,
+        "frameworkReferences": {
+          "Microsoft.NETCore.App": {
+            "privateAssets": "all"
+          }
+        },
+        "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\8.0.205/PortableRuntimeIdentifierGraph.json"
+      }
+    }
+  }
+}
