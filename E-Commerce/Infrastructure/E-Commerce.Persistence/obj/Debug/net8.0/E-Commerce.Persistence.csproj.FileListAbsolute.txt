@@ -16,3 +16,5 @@ C:\Users\Lenovo\Desktop\E-Commerce Angular+Asp.Net API\E-Commerce\Infrastructure
 C:\Users\Lenovo\Desktop\E-Commerce Angular+Asp.Net API\E-Commerce\Infrastructure\E-Commerce.Persistence\obj\Debug\net8.0\refint\E-Commerce.Persistence.dll
 C:\Users\Lenovo\Desktop\E-Commerce Angular+Asp.Net API\E-Commerce\Infrastructure\E-Commerce.Persistence\obj\Debug\net8.0\E-Commerce.Persistence.pdb
 C:\Users\Lenovo\Desktop\E-Commerce Angular+Asp.Net API\E-Commerce\Infrastructure\E-Commerce.Persistence\obj\Debug\net8.0\ref\E-Commerce.Persistence.dll
+C:\Users\Lenovo\Desktop\E-Commerce Angular+Asp.Net API\E-Commerce\Infrastructure\E-Commerce.Persistence\bin\Debug\net8.0\E-Commerce.Persistence.runtimeconfig.json
+C:\Users\Lenovo\Desktop\E-Commerce Angular+Asp.Net API\E-Commerce\Infrastructure\E-Commerce.Persistence\obj\Debug\net8.0\E-Commerce.Persistence.genruntimeconfig.cache

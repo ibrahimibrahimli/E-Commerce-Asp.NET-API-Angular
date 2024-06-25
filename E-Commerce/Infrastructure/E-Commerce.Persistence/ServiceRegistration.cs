@@ -9,7 +9,7 @@ namespace E_Commerce.Persistence
     {
         public static void AddPersistenceServices(this IServiceCollection services)
         {
-            services.AddDbContext<ApplicationAPIDbContext>(options => options.UseNpgsql(@"User ID=root;Password=myPassword;Host=localhost;Port=5432;Database=E-CommerceAPIDb;"));
+            services.AddDbContext<ApplicationAPIDbContext>(options => options.UseNpgsql(Configuration.ConnectionString));
         }
     }
 }
