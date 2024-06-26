@@ -636,7 +636,8 @@
       "System.Threading.Channels/6.0.0": {},
       "E-Commerce.Application/1.0.0": {
         "dependencies": {
-          "E-Commerce.Domain": "1.0.0"
+          "E-Commerce.Domain": "1.0.0",
+          "Microsoft.EntityFrameworkCore": "8.0.6"
         },
         "runtime": {
           "E-Commerce.Application.dll": {}

@@ -63,7 +63,7 @@ namespace E_Commerce.Persistence.Repositories
             throw new NotImplementedException();
         }
 
-        public async Task<int> SaveChangesAsync()
+        public async Task<int> SaveAsync()
         => await _context.SaveChangesAsync();
 
         
