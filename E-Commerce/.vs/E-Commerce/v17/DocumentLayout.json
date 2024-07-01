@@ -3,12 +3,12 @@
   "WorkspaceRootPath": "C:\\Users\\Lenovo\\Desktop\\E-Commerce Angular\u002BAsp.Net API\\E-Commerce\\",
   "Documents": [
     {
-      "AbsoluteMoniker": "D:0:0:{6EA856E5-09CD-4C2B-85A5-4CDE09C44828}|Infrastructure\\E-Commerce.Persistence\\E-Commerce.Persistence.csproj|c:\\users\\lenovo\\desktop\\e-commerce angular\u002Basp.net api\\e-commerce\\infrastructure\\e-commerce.persistence\\repositories\\readrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{6EA856E5-09CD-4C2B-85A5-4CDE09C44828}|Infrastructure\\E-Commerce.Persistence\\E-Commerce.Persistence.csproj|solutionrelative:infrastructure\\e-commerce.persistence\\repositories\\readrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
       "AbsoluteMoniker": "D:0:0:{4E35C312-6AD4-4A71-8E60-2336B727084F}|Presentation\\E-Commerce.API\\E-Commerce.API.csproj|c:\\users\\lenovo\\desktop\\e-commerce angular\u002Basp.net api\\e-commerce\\presentation\\e-commerce.api\\controllers\\productscontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{4E35C312-6AD4-4A71-8E60-2336B727084F}|Presentation\\E-Commerce.API\\E-Commerce.API.csproj|solutionrelative:presentation\\e-commerce.api\\controllers\\productscontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{6EA856E5-09CD-4C2B-85A5-4CDE09C44828}|Infrastructure\\E-Commerce.Persistence\\E-Commerce.Persistence.csproj|c:\\users\\lenovo\\desktop\\e-commerce angular\u002Basp.net api\\e-commerce\\infrastructure\\e-commerce.persistence\\repositories\\readrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{6EA856E5-09CD-4C2B-85A5-4CDE09C44828}|Infrastructure\\E-Commerce.Persistence\\E-Commerce.Persistence.csproj|solutionrelative:infrastructure\\e-commerce.persistence\\repositories\\readrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
       "AbsoluteMoniker": "D:0:0:{6EA856E5-09CD-4C2B-85A5-4CDE09C44828}|Infrastructure\\E-Commerce.Persistence\\E-Commerce.Persistence.csproj|c:\\users\\lenovo\\desktop\\e-commerce angular\u002Basp.net api\\e-commerce\\infrastructure\\e-commerce.persistence\\serviceregistration.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
@@ -22,7 +22,7 @@
       "DocumentGroups": [
         {
           "DockedWidth": 200,
-          "SelectedChildIndex": 2,
+          "SelectedChildIndex": 1,
           "Children": [
             {
               "$type": "Document",
@@ -34,25 +34,24 @@
               "RelativeToolTip": "Infrastructure\\E-Commerce.Persistence\\ServiceRegistration.cs",
               "ViewState": "AQIAAAAAAAAAAAAAAAAAABUAAAAFAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-06-25T18:59:59.698Z",
-              "EditorCaption": ""
+              "WhenOpened": "2024-06-25T18:59:59.698Z"
             },
             {
               "$type": "Document",
-              "DocumentIndex": 1,
+              "DocumentIndex": 0,
               "Title": "ProductsController.cs",
               "DocumentMoniker": "C:\\Users\\Lenovo\\Desktop\\E-Commerce Angular\u002BAsp.Net API\\E-Commerce\\Presentation\\E-Commerce.API\\Controllers\\ProductsController.cs",
               "RelativeDocumentMoniker": "Presentation\\E-Commerce.API\\Controllers\\ProductsController.cs",
               "ToolTip": "C:\\Users\\Lenovo\\Desktop\\E-Commerce Angular\u002BAsp.Net API\\E-Commerce\\Presentation\\E-Commerce.API\\Controllers\\ProductsController.cs",
               "RelativeToolTip": "Presentation\\E-Commerce.API\\Controllers\\ProductsController.cs",
-              "ViewState": "AQIAAAkAAAAAAAAAAAAAwCIAAAAAAAAA",
+              "ViewState": "AQIAAAkAAAAAAAAAAAAAwCEAAAAZAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2024-06-25T19:02:07.148Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 0,
+              "DocumentIndex": 1,
               "Title": "ReadRepository.cs",
               "DocumentMoniker": "C:\\Users\\Lenovo\\Desktop\\E-Commerce Angular\u002BAsp.Net API\\E-Commerce\\Infrastructure\\E-Commerce.Persistence\\Repositories\\ReadRepository.cs",
               "RelativeDocumentMoniker": "Infrastructure\\E-Commerce.Persistence\\Repositories\\ReadRepository.cs",
