@@ -11,32 +11,24 @@ namespace E_Commerce.API.Controllers
         private readonly IProductWriteRepository _productWriteRepository;
         private readonly IProductReadRepository _productReadRepository;
 
-        public ProductsController(IProductWriteRepository productWriteRepository, IProductReadRepository productReadRepository)
+        private readonly IOrderWriteRepository _orderWriteRepository;
+
+        public ProductsController(IProductWriteRepository productWriteRepository, IProductReadRepository productReadRepository, IOrderWriteRepository orderWriteRepository)
         {
             _productWriteRepository = productWriteRepository;
             _productReadRepository = productReadRepository;
+            _orderWriteRepository = orderWriteRepository;
         }
 
         [HttpGet]   
         public async Task Get()
         {
-            await _productWriteRepository.AddRangeAsync(new()
-            {
-                new(){Id = Guid.NewGuid() , Name = "Product 1", Price = 66, Stock = 300},
-                new(){Id = Guid.NewGuid() , Name = "Product 2", Price = 46, Stock = 300},
-                new(){Id = Guid.NewGuid() , Name = "Product 3", Price = 645, Stock = 300},
-                new(){Id = Guid.NewGuid() , Name = "Product 4", Price = 64, Stock = 300},
-            });
+           await _orderWriteRepository.AddAsync(new() { Description = "orderr 1", Adress = "baku"});
+           await _orderWriteRepository.AddAsync(new() { Description = "orderr 2", Adress = "Sumgait"});
                 
-            await _productWriteRepository.SaveAsync();
+            await _orderWriteRepository.SaveAsync();
         }
 
-        [HttpGet("{id}")]
-
-        public async Task<IActionResult> Get(string id)
-        {
-            Product product = await _productReadRepository.GetByIdAsync(id);
-            return Ok(product);
-        }
+        
     }
 }
