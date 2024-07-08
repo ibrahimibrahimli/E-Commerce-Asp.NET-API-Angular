@@ -1,5 +1,6 @@
 import { Component } from '@angular/core';
 
+
 @Component({
   selector: 'app-layout',
   templateUrl: './layout.component.html',
@@ -7,4 +8,10 @@ import { Component } from '@angular/core';
 })
 export class LayoutComponent {
 
+  constructor() {
+  }
+
+  ngOnInit() : void {
+  }
+  
 }

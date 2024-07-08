@@ -9,7 +9,3 @@ declare var $: any
 export class AppComponent {
   title = 'E-CommerceClient';
 }
-
-$(document).ready(()=>{
-  alert("salam")
-})
