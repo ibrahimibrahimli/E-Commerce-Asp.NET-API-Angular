@@ -11,22 +11,6 @@ declare var $: any
 })
 export class AppComponent {
   title = 'E-CommerceClient';
-  constructor(private toastrService : CustomToastrService) {
-    toastrService.message("Ugursuz","Diqqet",{
-      messageType : ToastrMessageType.Error,
-      position : ToastrPosition.TopLeft
-    })
-    toastrService.message("Ugursuz","Diqqet",{
-      messageType : ToastrMessageType.Success,
-      position : ToastrPosition.TopRight
-    })
-    toastrService.message("Ugursuz","Diqqet",{
-      messageType : ToastrMessageType.Warning,
-      position : ToastrPosition.BottomLeft
-    })
-    toastrService.message("Ugursuz","Diqqet",{
-      messageType : ToastrMessageType.Info,
-      position : ToastrPosition.BottomRight
-    })
+  constructor() {
   }
 }
