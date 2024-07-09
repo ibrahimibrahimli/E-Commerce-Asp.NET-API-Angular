@@ -12,21 +12,20 @@ namespace E_Commerce.API.Controllers
         private readonly IProductReadRepository _productReadRepository;
 
         private readonly IOrderWriteRepository _orderWriteRepository;
+        private readonly IOrderReadRepository _orderReadRepository;
 
-        public ProductsController(IProductWriteRepository productWriteRepository, IProductReadRepository productReadRepository, IOrderWriteRepository orderWriteRepository)
+        public ProductsController(IProductWriteRepository productWriteRepository, IProductReadRepository productReadRepository, IOrderWriteRepository orderWriteRepository, IOrderReadRepository orderReadRepository)
         {
             _productWriteRepository = productWriteRepository;
             _productReadRepository = productReadRepository;
             _orderWriteRepository = orderWriteRepository;
+            _orderReadRepository = orderReadRepository;
         }
 
         [HttpGet]   
-        public async Task Get()
+        public async Task<IActionResult> Get()
         {
-           await _orderWriteRepository.AddAsync(new() { Description = "orderr 1", Adress = "baku"});
-           await _orderWriteRepository.AddAsync(new() { Description = "orderr 2", Adress = "Sumgait"});
-                
-            await _orderWriteRepository.SaveAsync();
+            return Ok("Ibrahim");
         }
 
         
