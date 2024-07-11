@@ -1,8 +1,8 @@
 {
   "version": 2,
-  "dgSpecHash": "GtGiXJ/yIYdUDgYhpB4DU5IRJtLPo6uyfhaBH2WqD/f6hot0gEmPo3KsivxIIkg8Lt4eoN3EcbV5fWcKqg7Tfw==",
+  "dgSpecHash": "AC4jKUv0XI7t1Jk8aW1fpn4HSfvN4v4v81zLalr6UC5qhTs9BnQDfh2hCyI5JMK9RBZGDBYRFJrf9CxoYEZv8w==",
   "success": true,
-  "projectFilePath": "C:\\Users\\Lenovo\\Desktop\\E-Commerce Angular+Asp.Net API\\E-Commerce\\Core\\E-Commerce.Domain\\E-Commerce.Domain.csproj",
+  "projectFilePath": "C:\\Users\\Lenovo\\source\\Repos\\E-Commerce-Asp.NET-API-Angular\\E-Commerce\\Core\\E-Commerce.Domain\\E-Commerce.Domain.csproj",
   "expectedPackageFiles": [],
   "logs": []
 }

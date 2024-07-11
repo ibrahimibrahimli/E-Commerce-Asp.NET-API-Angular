@@ -1,8 +1,8 @@
 {
   "version": 2,
-  "dgSpecHash": "0nniAbj45aJtoUz9xf5WyeC6qtXC1zRdFuL8EiNX6UMKNCmVjA46ADNYR1R8u7ZOgNQ0Gp37BMTJnVhC1u3JCg==",
+  "dgSpecHash": "RmSkO+I3QmhvfY3Cq3VaCOwebJMoD7witmq9uxZUZwaFY9iW3MmP9iPNdCc+//DoN0hpHDhj2jS2miN0WXeexg==",
   "success": true,
-  "projectFilePath": "C:\\Users\\Lenovo\\Desktop\\E-Commerce Angular+Asp.Net API\\E-Commerce\\Infrastructure\\E-Commerce.Infrastructure\\E-Commerce.Infrastructure.csproj",
+  "projectFilePath": "C:\\Users\\Lenovo\\source\\Repos\\E-Commerce-Asp.NET-API-Angular\\E-Commerce\\Infrastructure\\E-Commerce.Infrastructure\\E-Commerce.Infrastructure.csproj",
   "expectedPackageFiles": [
     "C:\\Users\\Lenovo\\.nuget\\packages\\microsoft.entityframeworkcore\\8.0.6\\microsoft.entityframeworkcore.8.0.6.nupkg.sha512",
     "C:\\Users\\Lenovo\\.nuget\\packages\\microsoft.entityframeworkcore.abstractions\\8.0.6\\microsoft.entityframeworkcore.abstractions.8.0.6.nupkg.sha512",

@@ -9,7 +9,9 @@ namespace E_Commerce.API.Controllers
     [ApiController]
     public class ProductsController : ControllerBase
     {
-        private readonly IProductWriteRepository _productWriteRepository;
+        //This methods currently using for test. will edited! 
+
+        private readonly IProductWriteRepository _productWriteRepository;   
         private readonly IProductReadRepository _productReadRepository;
 
         public ProductsController(IProductWriteRepository productWriteRepository, IProductReadRepository productReadRepository)

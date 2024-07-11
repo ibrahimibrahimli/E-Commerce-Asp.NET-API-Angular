@@ -3044,11 +3044,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "C:\\Users\\Lenovo\\Desktop\\E-Commerce Angular+Asp.Net API\\E-Commerce\\Presentation\\E-Commerce.API\\E-Commerce.API.csproj",
+      "projectUniqueName": "C:\\Users\\Lenovo\\source\\Repos\\E-Commerce-Asp.NET-API-Angular\\E-Commerce\\Presentation\\E-Commerce.API\\E-Commerce.API.csproj",
       "projectName": "E-Commerce.API",
-      "projectPath": "C:\\Users\\Lenovo\\Desktop\\E-Commerce Angular+Asp.Net API\\E-Commerce\\Presentation\\E-Commerce.API\\E-Commerce.API.csproj",
+      "projectPath": "C:\\Users\\Lenovo\\source\\Repos\\E-Commerce-Asp.NET-API-Angular\\E-Commerce\\Presentation\\E-Commerce.API\\E-Commerce.API.csproj",
       "packagesPath": "C:\\Users\\Lenovo\\.nuget\\packages\\",
-      "outputPath": "C:\\Users\\Lenovo\\Desktop\\E-Commerce Angular+Asp.Net API\\E-Commerce\\Presentation\\E-Commerce.API\\obj\\",
+      "outputPath": "C:\\Users\\Lenovo\\source\\Repos\\E-Commerce-Asp.NET-API-Angular\\E-Commerce\\Presentation\\E-Commerce.API\\obj\\",
       "projectStyle": "PackageReference",
       "configFilePaths": [
         "C:\\Users\\Lenovo\\AppData\\Roaming\\NuGet\\NuGet.Config",
@@ -3065,11 +3065,11 @@
         "net8.0": {
           "targetAlias": "net8.0",
           "projectReferences": {
-            "C:\\Users\\Lenovo\\Desktop\\E-Commerce Angular+Asp.Net API\\E-Commerce\\Core\\E-Commerce.Application\\E-Commerce.Application.csproj": {
-              "projectPath": "C:\\Users\\Lenovo\\Desktop\\E-Commerce Angular+Asp.Net API\\E-Commerce\\Core\\E-Commerce.Application\\E-Commerce.Application.csproj"
+            "C:\\Users\\Lenovo\\source\\Repos\\E-Commerce-Asp.NET-API-Angular\\E-Commerce\\Core\\E-Commerce.Application\\E-Commerce.Application.csproj": {
+              "projectPath": "C:\\Users\\Lenovo\\source\\Repos\\E-Commerce-Asp.NET-API-Angular\\E-Commerce\\Core\\E-Commerce.Application\\E-Commerce.Application.csproj"
             },
-            "C:\\Users\\Lenovo\\Desktop\\E-Commerce Angular+Asp.Net API\\E-Commerce\\Infrastructure\\E-Commerce.Persistence\\E-Commerce.Persistence.csproj": {
-              "projectPath": "C:\\Users\\Lenovo\\Desktop\\E-Commerce Angular+Asp.Net API\\E-Commerce\\Infrastructure\\E-Commerce.Persistence\\E-Commerce.Persistence.csproj"
+            "C:\\Users\\Lenovo\\source\\Repos\\E-Commerce-Asp.NET-API-Angular\\E-Commerce\\Infrastructure\\E-Commerce.Persistence\\E-Commerce.Persistence.csproj": {
+              "projectPath": "C:\\Users\\Lenovo\\source\\Repos\\E-Commerce-Asp.NET-API-Angular\\E-Commerce\\Infrastructure\\E-Commerce.Persistence\\E-Commerce.Persistence.csproj"
             }
           }
         }

@@ -16,3 +16,21 @@ C:\Users\Lenovo\Desktop\E-Commerce Angular+Asp.Net API\E-Commerce\Infrastructure
 C:\Users\Lenovo\Desktop\E-Commerce Angular+Asp.Net API\E-Commerce\Infrastructure\E-Commerce.Infrastructure\obj\Debug\net8.0\refint\E-Commerce.Infrastructure.dll
 C:\Users\Lenovo\Desktop\E-Commerce Angular+Asp.Net API\E-Commerce\Infrastructure\E-Commerce.Infrastructure\obj\Debug\net8.0\E-Commerce.Infrastructure.pdb
 C:\Users\Lenovo\Desktop\E-Commerce Angular+Asp.Net API\E-Commerce\Infrastructure\E-Commerce.Infrastructure\obj\Debug\net8.0\ref\E-Commerce.Infrastructure.dll
+C:\Users\Lenovo\source\Repos\E-Commerce-Asp.NET-API-Angular\E-Commerce\Infrastructure\E-Commerce.Infrastructure\bin\Debug\net8.0\E-Commerce.Infrastructure.deps.json
+C:\Users\Lenovo\source\Repos\E-Commerce-Asp.NET-API-Angular\E-Commerce\Infrastructure\E-Commerce.Infrastructure\bin\Debug\net8.0\E-Commerce.Infrastructure.dll
+C:\Users\Lenovo\source\Repos\E-Commerce-Asp.NET-API-Angular\E-Commerce\Infrastructure\E-Commerce.Infrastructure\bin\Debug\net8.0\E-Commerce.Infrastructure.pdb
+C:\Users\Lenovo\source\Repos\E-Commerce-Asp.NET-API-Angular\E-Commerce\Infrastructure\E-Commerce.Infrastructure\bin\Debug\net8.0\E-Commerce.Application.dll
+C:\Users\Lenovo\source\Repos\E-Commerce-Asp.NET-API-Angular\E-Commerce\Infrastructure\E-Commerce.Infrastructure\bin\Debug\net8.0\E-Commerce.Domain.dll
+C:\Users\Lenovo\source\Repos\E-Commerce-Asp.NET-API-Angular\E-Commerce\Infrastructure\E-Commerce.Infrastructure\bin\Debug\net8.0\E-Commerce.Application.pdb
+C:\Users\Lenovo\source\Repos\E-Commerce-Asp.NET-API-Angular\E-Commerce\Infrastructure\E-Commerce.Infrastructure\bin\Debug\net8.0\E-Commerce.Domain.pdb
+C:\Users\Lenovo\source\Repos\E-Commerce-Asp.NET-API-Angular\E-Commerce\Infrastructure\E-Commerce.Infrastructure\obj\Debug\net8.0\E-Commerce.Infrastructure.csproj.AssemblyReference.cache
+C:\Users\Lenovo\source\Repos\E-Commerce-Asp.NET-API-Angular\E-Commerce\Infrastructure\E-Commerce.Infrastructure\obj\Debug\net8.0\E-Commerce.Infrastructure.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Lenovo\source\Repos\E-Commerce-Asp.NET-API-Angular\E-Commerce\Infrastructure\E-Commerce.Infrastructure\obj\Debug\net8.0\E-Commerce.Infrastructure.AssemblyInfoInputs.cache
+C:\Users\Lenovo\source\Repos\E-Commerce-Asp.NET-API-Angular\E-Commerce\Infrastructure\E-Commerce.Infrastructure\obj\Debug\net8.0\E-Commerce.Infrastructure.AssemblyInfo.cs
+C:\Users\Lenovo\source\Repos\E-Commerce-Asp.NET-API-Angular\E-Commerce\Infrastructure\E-Commerce.Infrastructure\obj\Debug\net8.0\E-Commerce.Infrastructure.csproj.CoreCompileInputs.cache
+C:\Users\Lenovo\source\Repos\E-Commerce-Asp.NET-API-Angular\E-Commerce\Infrastructure\E-Commerce.Infrastructure\obj\Debug\net8.0\E-Commerce.Infrastructure.sourcelink.json
+C:\Users\Lenovo\source\Repos\E-Commerce-Asp.NET-API-Angular\E-Commerce\Infrastructure\E-Commerce.Infrastructure\obj\Debug\net8.0\E-Commer.F1A1F0FE.Up2Date
+C:\Users\Lenovo\source\Repos\E-Commerce-Asp.NET-API-Angular\E-Commerce\Infrastructure\E-Commerce.Infrastructure\obj\Debug\net8.0\E-Commerce.Infrastructure.dll
+C:\Users\Lenovo\source\Repos\E-Commerce-Asp.NET-API-Angular\E-Commerce\Infrastructure\E-Commerce.Infrastructure\obj\Debug\net8.0\refint\E-Commerce.Infrastructure.dll
+C:\Users\Lenovo\source\Repos\E-Commerce-Asp.NET-API-Angular\E-Commerce\Infrastructure\E-Commerce.Infrastructure\obj\Debug\net8.0\E-Commerce.Infrastructure.pdb
+C:\Users\Lenovo\source\Repos\E-Commerce-Asp.NET-API-Angular\E-Commerce\Infrastructure\E-Commerce.Infrastructure\obj\Debug\net8.0\ref\E-Commerce.Infrastructure.dll
