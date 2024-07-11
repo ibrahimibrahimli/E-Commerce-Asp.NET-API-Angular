@@ -63,6 +63,8 @@ namespace E_Commerce.API.Controllers
         [HttpDelete("{Id}")]
         public async Task<IActionResult> Delete(string id)
         {
+            var nid = id;
+            await Console.Out.WriteLineAsync(nid);
             await _productWriteRepository.RemoveAsync(id);
             await _productWriteRepository.SaveAsync();
             return Ok();

@@ -2,6 +2,7 @@ import { Component } from '@angular/core';
 import { NgxSpinnerService } from 'ngx-spinner';
 import { BaseComponent, SpinnerType } from 'src/app/base/base.component';
 import { HttpClientService } from 'src/app/services/common/http-client.service';
+import {}
 
 @Component({
   selector: 'app-products',
@@ -15,9 +16,10 @@ export class ProductsComponent extends BaseComponent {
 
   ngOnInit(): void {
     this.showSpinner(SpinnerType.BallAtom)
-    this.httpClientService.get({
+
+    this.httpClientService.get<Product>({
       controller: "products"
-    }).subscribe(data => console.log(data))
+    }).subscribe(data => {data[0].name})
 
     // this.httpClientService.post({
     //   controller: "products"
@@ -38,6 +40,6 @@ export class ProductsComponent extends BaseComponent {
 
     this.httpClientService.delete({
       controller : "products"
-    },"65a90785-61af-41f5-84c2-ad570f2421a2").subscribe();
+    },"c4a00e82-1631-4ffc-b502-b884e3a87cc6").subscribe();
   }
 }

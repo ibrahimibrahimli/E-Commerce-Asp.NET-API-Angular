@@ -42,8 +42,19 @@ namespace E_Commerce.Persistence.Repositories
 
         public async Task<bool> RemoveAsync(string id)
         {
-            T model = await Table.FirstOrDefaultAsync(data => data.Id == Guid.Parse(id));
-            return Remove(model);
+           
+
+            if(Guid.TryParse(id, out var entityId))
+            {
+                T model = await Table.FirstOrDefaultAsync(data => data.Id == Guid.Parse(id));
+                return Remove(model);
+            }
+            else
+            {
+                return false;
+            }
+
+            
         }
 
         public bool RemoveRange(List<T> datas)
