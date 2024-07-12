@@ -1,4 +1,4 @@
-export class Product {
+export class ProductCreate {
     name : string;
     price : number;
     stock : number;
