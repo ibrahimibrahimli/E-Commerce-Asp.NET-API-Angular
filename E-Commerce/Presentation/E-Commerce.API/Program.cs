@@ -1,11 +1,16 @@
+using E_Commerce.Application.Validators.Product;
+using E_Commerce.Infrastructure.Filter;
 using E_Commerce.Persistence;
+using FluentValidation.AspNetCore;
 
 var builder = WebApplication.CreateBuilder(args);
 
 
 
 
-builder.Services.AddControllers();
+builder.Services.AddControllers(options => options.Filters.Add<ValidationFilter>())
+    .AddFluentValidation(configuration => configuration.RegisterValidatorsFromAssemblyContaining<CreateProductValidator>())
+    .ConfigureApiBehaviorOptions(options => options.SuppressModelStateInvalidFilter = true);
 
 builder.Services.AddPersistenceServices();
 

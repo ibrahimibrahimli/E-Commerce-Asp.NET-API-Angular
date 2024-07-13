@@ -1,9 +1,12 @@
 {
   "version": 2,
-  "dgSpecHash": "acS+e0Ff0zLqG8VMuQH/NhTc3BqOyGEVJyeknkDm/HksANHk4VBQshmMa7ZPyKyQbp+oJiFA3VQJBk/ga4UsRw==",
+  "dgSpecHash": "isZixe4pyRrVFi656QTVyYwboYw3jVB+h5i+WnHbMsdjGqG7TTtSe22UrGOgNwftAj70eOo89WzUN/BGOKWbng==",
   "success": true,
   "projectFilePath": "C:\\Users\\Lenovo\\source\\Repos\\E-Commerce-Asp.NET-API-Angular\\E-Commerce\\Presentation\\E-Commerce.API\\E-Commerce.API.csproj",
   "expectedPackageFiles": [
+    "C:\\Users\\Lenovo\\.nuget\\packages\\fluentvalidation\\11.9.2\\fluentvalidation.11.9.2.nupkg.sha512",
+    "C:\\Users\\Lenovo\\.nuget\\packages\\fluentvalidation.aspnetcore\\11.3.0\\fluentvalidation.aspnetcore.11.3.0.nupkg.sha512",
+    "C:\\Users\\Lenovo\\.nuget\\packages\\fluentvalidation.dependencyinjectionextensions\\11.9.2\\fluentvalidation.dependencyinjectionextensions.11.9.2.nupkg.sha512",
     "C:\\Users\\Lenovo\\.nuget\\packages\\humanizer.core\\2.14.1\\humanizer.core.2.14.1.nupkg.sha512",
     "C:\\Users\\Lenovo\\.nuget\\packages\\microsoft.bcl.asyncinterfaces\\6.0.0\\microsoft.bcl.asyncinterfaces.6.0.0.nupkg.sha512",
     "C:\\Users\\Lenovo\\.nuget\\packages\\microsoft.codeanalysis.analyzers\\3.3.3\\microsoft.codeanalysis.analyzers.3.3.3.nupkg.sha512",

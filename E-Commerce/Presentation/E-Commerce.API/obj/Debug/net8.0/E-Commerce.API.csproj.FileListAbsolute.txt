@@ -222,3 +222,8 @@ C:\Users\Lenovo\source\Repos\E-Commerce-Asp.NET-API-Angular\E-Commerce\Presentat
 C:\Users\Lenovo\source\Repos\E-Commerce-Asp.NET-API-Angular\E-Commerce\Presentation\E-Commerce.API\obj\Debug\net8.0\E-Commerce.API.pdb
 C:\Users\Lenovo\source\Repos\E-Commerce-Asp.NET-API-Angular\E-Commerce\Presentation\E-Commerce.API\obj\Debug\net8.0\E-Commerce.API.genruntimeconfig.cache
 C:\Users\Lenovo\source\Repos\E-Commerce-Asp.NET-API-Angular\E-Commerce\Presentation\E-Commerce.API\obj\Debug\net8.0\ref\E-Commerce.API.dll
+C:\Users\Lenovo\source\Repos\E-Commerce-Asp.NET-API-Angular\E-Commerce\Presentation\E-Commerce.API\bin\Debug\net8.0\FluentValidation.dll
+C:\Users\Lenovo\source\Repos\E-Commerce-Asp.NET-API-Angular\E-Commerce\Presentation\E-Commerce.API\bin\Debug\net8.0\FluentValidation.AspNetCore.dll
+C:\Users\Lenovo\source\Repos\E-Commerce-Asp.NET-API-Angular\E-Commerce\Presentation\E-Commerce.API\bin\Debug\net8.0\FluentValidation.DependencyInjectionExtensions.dll
+C:\Users\Lenovo\source\Repos\E-Commerce-Asp.NET-API-Angular\E-Commerce\Presentation\E-Commerce.API\bin\Debug\net8.0\E-Commerce.Infrastructure.dll
+C:\Users\Lenovo\source\Repos\E-Commerce-Asp.NET-API-Angular\E-Commerce\Presentation\E-Commerce.API\bin\Debug\net8.0\E-Commerce.Infrastructure.pdb

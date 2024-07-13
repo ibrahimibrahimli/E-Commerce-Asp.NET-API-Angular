@@ -1,9 +1,12 @@
 {
   "version": 2,
-  "dgSpecHash": "crzDxjZDk81tHXFtgZdIyJahiWF2nPlkfR2OimjggMi9a6qqIiNghk9oEJHrd2YuMAH/HKi5vyoozA0SdVaPkg==",
+  "dgSpecHash": "5KvOAZizyztpkw1kJMNPVgyZRhbIjd88LNMel5rHVemVUxUq5/Fn68jVdOkODtBdbxFHy4PgpTbTlWStMSq82g==",
   "success": true,
   "projectFilePath": "C:\\Users\\Lenovo\\source\\Repos\\E-Commerce-Asp.NET-API-Angular\\E-Commerce\\Core\\E-Commerce.Application\\E-Commerce.Application.csproj",
   "expectedPackageFiles": [
+    "C:\\Users\\Lenovo\\.nuget\\packages\\fluentvalidation\\11.9.2\\fluentvalidation.11.9.2.nupkg.sha512",
+    "C:\\Users\\Lenovo\\.nuget\\packages\\fluentvalidation.aspnetcore\\11.3.0\\fluentvalidation.aspnetcore.11.3.0.nupkg.sha512",
+    "C:\\Users\\Lenovo\\.nuget\\packages\\fluentvalidation.dependencyinjectionextensions\\11.9.2\\fluentvalidation.dependencyinjectionextensions.11.9.2.nupkg.sha512",
     "C:\\Users\\Lenovo\\.nuget\\packages\\microsoft.entityframeworkcore\\8.0.6\\microsoft.entityframeworkcore.8.0.6.nupkg.sha512",
     "C:\\Users\\Lenovo\\.nuget\\packages\\microsoft.entityframeworkcore.abstractions\\8.0.6\\microsoft.entityframeworkcore.abstractions.8.0.6.nupkg.sha512",
     "C:\\Users\\Lenovo\\.nuget\\packages\\microsoft.entityframeworkcore.analyzers\\8.0.6\\microsoft.entityframeworkcore.analyzers.8.0.6.nupkg.sha512",
