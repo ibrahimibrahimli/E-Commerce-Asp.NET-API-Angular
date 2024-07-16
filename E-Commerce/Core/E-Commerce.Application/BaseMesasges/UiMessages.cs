@@ -24,11 +24,14 @@
             return $"{propertyName} {count} rəqəmindən kiçik ola bilməz";
         }
 
+
+        //SUCCES MESSAGES
         public const string SUCCESS_ADDED_MESSAGE = "Məlumat uğurla əlavə edildi";
         public const string SUCCESS_UPDATED_MESSAGE = "Məlumat uğurla yeniləndi";
         public const string SUCCESS_DELETED_MESSAGE = "Məlumat uğurla silindi";
 
-        //Authentification Messages
+        //AUTHENTIFICATION MESSAGES
+
         public const string NOT_VALID_EMAIL = "E-poçt doğru deyil";
         public const string NOT_VALID_PHONENUMBER = "Telefon nömrəsi doğru deyil";
 

@@ -1,7 +1,7 @@
 import { Component } from '@angular/core';
 import { NgxSpinner, NgxSpinnerService } from 'ngx-spinner';
 import { BaseComponent, SpinnerType } from 'src/app/base/base.component';
-import { ProductCreate } from 'src/app/contracts/productCreate';
+import { ProductCreate } from 'src/app/contracts/product/productCreate';
 import { AlertifyService, MessageType, Position } from 'src/app/services/admin/alertify.service';
 import { ProductService } from 'src/app/services/common/models/product.service';
 
@@ -20,7 +20,34 @@ export class CreateComponent extends BaseComponent {
     const createProduct : ProductCreate = new ProductCreate();
     createProduct.name = name.value;
     createProduct.stock = parseInt(stock.value);
-    createProduct.price = parseFloat(price.value)
+    createProduct.price = parseFloat(price.value);
+
+    if(!name.value){
+      this.alertify.message("Adı düzgün daxil edin  ",{
+        dismissOthers : true,
+        messageType : MessageType.Error,
+        position : Position.TopLeft
+      })
+      return;
+    }
+
+    if(parseInt(stock.value) < 0){
+      this.alertify.message("Stok məlumatlarını düzgün daxil edin  ",{
+        dismissOthers : true,
+        messageType : MessageType.Error,
+        position : Position.TopLeft
+      })
+      return;
+    }
+
+    if(parseInt(price.value) < 0){
+      this.alertify.message("Qiymət məlumatlarını düzgün daxil edin  ",{
+        dismissOthers : true,
+        messageType : MessageType.Error,
+        position : Position.TopLeft
+      })
+      return;
+    }
 
     this.productService.create(createProduct, ()=>{
       this.hideSpinner(SpinnerType.BallAtom)
@@ -30,6 +57,8 @@ export class CreateComponent extends BaseComponent {
         position : Position.TopRight
       })
     }, errorMessage => {
+
+     
       this.alertify.message(errorMessage,{
         dismissOthers : false,
         messageType : MessageType.Error,

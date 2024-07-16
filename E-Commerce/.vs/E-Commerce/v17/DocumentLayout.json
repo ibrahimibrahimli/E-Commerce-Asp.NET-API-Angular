@@ -3,28 +3,8 @@
   "WorkspaceRootPath": "C:\\Users\\Lenovo\\source\\Repos\\E-Commerce-Asp.NET-API-Angular\\E-Commerce\\",
   "Documents": [
     {
-      "AbsoluteMoniker": "D:0:0:{54B511B8-B25A-4973-A32E-68DB97EA7F33}|Infrastructure\\E-Commerce.Infrastructure\\E-Commerce.Infrastructure.csproj|c:\\users\\lenovo\\source\\repos\\e-commerce-asp.net-api-angular\\e-commerce\\infrastructure\\e-commerce.infrastructure\\filter\\validationfilter.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{54B511B8-B25A-4973-A32E-68DB97EA7F33}|Infrastructure\\E-Commerce.Infrastructure\\E-Commerce.Infrastructure.csproj|solutionrelative:infrastructure\\e-commerce.infrastructure\\filter\\validationfilter.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{4E35C312-6AD4-4A71-8E60-2336B727084F}|Presentation\\E-Commerce.API\\E-Commerce.API.csproj|c:\\users\\lenovo\\source\\repos\\e-commerce-asp.net-api-angular\\e-commerce\\presentation\\e-commerce.api\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{4E35C312-6AD4-4A71-8E60-2336B727084F}|Presentation\\E-Commerce.API\\E-Commerce.API.csproj|solutionrelative:presentation\\e-commerce.api\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{D373B44E-387C-4AB6-A48F-8499317187E1}|Core\\E-Commerce.Application\\E-Commerce.Application.csproj|c:\\users\\lenovo\\source\\repos\\e-commerce-asp.net-api-angular\\e-commerce\\core\\e-commerce.application\\validators\\product\\createproductvalidator.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{D373B44E-387C-4AB6-A48F-8499317187E1}|Core\\E-Commerce.Application\\E-Commerce.Application.csproj|solutionrelative:core\\e-commerce.application\\validators\\product\\createproductvalidator.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{D373B44E-387C-4AB6-A48F-8499317187E1}|Core\\E-Commerce.Application\\E-Commerce.Application.csproj|c:\\users\\lenovo\\source\\repos\\e-commerce-asp.net-api-angular\\e-commerce\\core\\e-commerce.application\\basemesasges\\uimessages.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{D373B44E-387C-4AB6-A48F-8499317187E1}|Core\\E-Commerce.Application\\E-Commerce.Application.csproj|solutionrelative:core\\e-commerce.application\\basemesasges\\uimessages.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
       "AbsoluteMoniker": "D:0:0:{4E35C312-6AD4-4A71-8E60-2336B727084F}|Presentation\\E-Commerce.API\\E-Commerce.API.csproj|c:\\users\\lenovo\\source\\repos\\e-commerce-asp.net-api-angular\\e-commerce\\presentation\\e-commerce.api\\controllers\\productscontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{4E35C312-6AD4-4A71-8E60-2336B727084F}|Presentation\\E-Commerce.API\\E-Commerce.API.csproj|solutionrelative:presentation\\e-commerce.api\\controllers\\productscontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{6EA856E5-09CD-4C2B-85A5-4CDE09C44828}|Infrastructure\\E-Commerce.Persistence\\E-Commerce.Persistence.csproj|c:\\users\\lenovo\\source\\repos\\e-commerce-asp.net-api-angular\\e-commerce\\infrastructure\\e-commerce.persistence\\repositories\\writerepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{6EA856E5-09CD-4C2B-85A5-4CDE09C44828}|Infrastructure\\E-Commerce.Persistence\\E-Commerce.Persistence.csproj|solutionrelative:infrastructure\\e-commerce.persistence\\repositories\\writerepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     }
   ],
   "DocumentGroupContainers": [
@@ -34,84 +14,19 @@
       "DocumentGroups": [
         {
           "DockedWidth": 200,
-          "SelectedChildIndex": 5,
+          "SelectedChildIndex": 0,
           "Children": [
             {
               "$type": "Document",
-              "DocumentIndex": 4,
+              "DocumentIndex": 0,
               "Title": "ProductsController.cs",
               "DocumentMoniker": "C:\\Users\\Lenovo\\source\\Repos\\E-Commerce-Asp.NET-API-Angular\\E-Commerce\\Presentation\\E-Commerce.API\\Controllers\\ProductsController.cs",
               "RelativeDocumentMoniker": "Presentation\\E-Commerce.API\\Controllers\\ProductsController.cs",
               "ToolTip": "C:\\Users\\Lenovo\\source\\Repos\\E-Commerce-Asp.NET-API-Angular\\E-Commerce\\Presentation\\E-Commerce.API\\Controllers\\ProductsController.cs",
               "RelativeToolTip": "Presentation\\E-Commerce.API\\Controllers\\ProductsController.cs",
-              "ViewState": "AQIAABgAAAAAAAAAAAAYwDYAAAAAAAAA",
+              "ViewState": "AQIAAAYAAAAAAAAAAAAAACAAAAAeAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-07-09T13:13:37.021Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 5,
-              "Title": "WriteRepository.cs",
-              "DocumentMoniker": "C:\\Users\\Lenovo\\source\\Repos\\E-Commerce-Asp.NET-API-Angular\\E-Commerce\\Infrastructure\\E-Commerce.Persistence\\Repositories\\WriteRepository.cs",
-              "RelativeDocumentMoniker": "Infrastructure\\E-Commerce.Persistence\\Repositories\\WriteRepository.cs",
-              "ToolTip": "C:\\Users\\Lenovo\\source\\Repos\\E-Commerce-Asp.NET-API-Angular\\E-Commerce\\Infrastructure\\E-Commerce.Persistence\\Repositories\\WriteRepository.cs",
-              "RelativeToolTip": "Infrastructure\\E-Commerce.Persistence\\Repositories\\WriteRepository.cs",
-              "ViewState": "AQIAAB0AAAAAAAAAAAAgwCcAAAA8AAAA",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-07-11T20:04:19.005Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 1,
-              "Title": "Program.cs",
-              "DocumentMoniker": "C:\\Users\\Lenovo\\source\\Repos\\E-Commerce-Asp.NET-API-Angular\\E-Commerce\\Presentation\\E-Commerce.API\\Program.cs",
-              "RelativeDocumentMoniker": "Presentation\\E-Commerce.API\\Program.cs",
-              "ToolTip": "C:\\Users\\Lenovo\\source\\Repos\\E-Commerce-Asp.NET-API-Angular\\E-Commerce\\Presentation\\E-Commerce.API\\Program.cs",
-              "RelativeToolTip": "Presentation\\E-Commerce.API\\Program.cs",
-              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAoAAABSAAAA",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-07-11T20:35:44.662Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 2,
-              "Title": "CreateProductValidator.cs",
-              "DocumentMoniker": "C:\\Users\\Lenovo\\source\\Repos\\E-Commerce-Asp.NET-API-Angular\\E-Commerce\\Core\\E-Commerce.Application\\Validators\\Product\\CreateProductValidator.cs",
-              "RelativeDocumentMoniker": "Core\\E-Commerce.Application\\Validators\\Product\\CreateProductValidator.cs",
-              "ToolTip": "C:\\Users\\Lenovo\\source\\Repos\\E-Commerce-Asp.NET-API-Angular\\E-Commerce\\Core\\E-Commerce.Application\\Validators\\Product\\CreateProductValidator.cs",
-              "RelativeToolTip": "Core\\E-Commerce.Application\\Validators\\Product\\CreateProductValidator.cs",
-              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAGAAAA",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-07-12T11:19:16.176Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 3,
-              "Title": "UiMessages.cs",
-              "DocumentMoniker": "C:\\Users\\Lenovo\\source\\Repos\\E-Commerce-Asp.NET-API-Angular\\E-Commerce\\Core\\E-Commerce.Application\\BaseMesasges\\UiMessages.cs",
-              "RelativeDocumentMoniker": "Core\\E-Commerce.Application\\BaseMesasges\\UiMessages.cs",
-              "ToolTip": "C:\\Users\\Lenovo\\source\\Repos\\E-Commerce-Asp.NET-API-Angular\\E-Commerce\\Core\\E-Commerce.Application\\BaseMesasges\\UiMessages.cs",
-              "RelativeToolTip": "Core\\E-Commerce.Application\\BaseMesasges\\UiMessages.cs",
-              "ViewState": "AQIAAA4AAAAAAAAAAAAAACgAAABrAAAA",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-07-12T11:24:52.9Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 0,
-              "Title": "ValidationFilter.cs",
-              "DocumentMoniker": "C:\\Users\\Lenovo\\source\\Repos\\E-Commerce-Asp.NET-API-Angular\\E-Commerce\\Infrastructure\\E-Commerce.Infrastructure\\Filter\\ValidationFilter.cs",
-              "RelativeDocumentMoniker": "Infrastructure\\E-Commerce.Infrastructure\\Filter\\ValidationFilter.cs",
-              "ToolTip": "C:\\Users\\Lenovo\\source\\Repos\\E-Commerce-Asp.NET-API-Angular\\E-Commerce\\Infrastructure\\E-Commerce.Infrastructure\\Filter\\ValidationFilter.cs*",
-              "RelativeToolTip": "Infrastructure\\E-Commerce.Infrastructure\\Filter\\ValidationFilter.cs*",
-              "ViewState": "AQIAAAAAAAAAAAAAAAAAABQAAAAXAAAA",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-07-12T13:21:33.785Z",
+              "WhenOpened": "2024-07-15T10:35:24.125Z",
               "EditorCaption": ""
             }
           ]
