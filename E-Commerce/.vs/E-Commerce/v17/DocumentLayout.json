@@ -5,6 +5,10 @@
     {
       "AbsoluteMoniker": "D:0:0:{4E35C312-6AD4-4A71-8E60-2336B727084F}|Presentation\\E-Commerce.API\\E-Commerce.API.csproj|c:\\users\\lenovo\\source\\repos\\e-commerce-asp.net-api-angular\\e-commerce\\presentation\\e-commerce.api\\controllers\\productscontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{4E35C312-6AD4-4A71-8E60-2336B727084F}|Presentation\\E-Commerce.API\\E-Commerce.API.csproj|solutionrelative:presentation\\e-commerce.api\\controllers\\productscontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{D373B44E-387C-4AB6-A48F-8499317187E1}|Core\\E-Commerce.Application\\E-Commerce.Application.csproj|c:\\users\\lenovo\\source\\repos\\e-commerce-asp.net-api-angular\\e-commerce\\core\\e-commerce.application\\requestparameters\\pagination.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{D373B44E-387C-4AB6-A48F-8499317187E1}|Core\\E-Commerce.Application\\E-Commerce.Application.csproj|solutionrelative:core\\e-commerce.application\\requestparameters\\pagination.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     }
   ],
   "DocumentGroupContainers": [
@@ -24,9 +28,22 @@
               "RelativeDocumentMoniker": "Presentation\\E-Commerce.API\\Controllers\\ProductsController.cs",
               "ToolTip": "C:\\Users\\Lenovo\\source\\Repos\\E-Commerce-Asp.NET-API-Angular\\E-Commerce\\Presentation\\E-Commerce.API\\Controllers\\ProductsController.cs",
               "RelativeToolTip": "Presentation\\E-Commerce.API\\Controllers\\ProductsController.cs",
-              "ViewState": "AQIAAAYAAAAAAAAAAAAAACAAAAAeAAAA",
+              "ViewState": "AQIAAAwAAAAAAAAAAAAAwCcAAAAbAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2024-07-15T10:35:24.125Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "Pagination.cs",
+              "DocumentMoniker": "C:\\Users\\Lenovo\\source\\Repos\\E-Commerce-Asp.NET-API-Angular\\E-Commerce\\Core\\E-Commerce.Application\\RequestParameters\\Pagination.cs",
+              "RelativeDocumentMoniker": "Core\\E-Commerce.Application\\RequestParameters\\Pagination.cs",
+              "ToolTip": "C:\\Users\\Lenovo\\source\\Repos\\E-Commerce-Asp.NET-API-Angular\\E-Commerce\\Core\\E-Commerce.Application\\RequestParameters\\Pagination.cs",
+              "RelativeToolTip": "Core\\E-Commerce.Application\\RequestParameters\\Pagination.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAwAAAAqAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-07-16T09:01:12.898Z",
               "EditorCaption": ""
             }
           ]

@@ -1,8 +1,8 @@
 export class ProductList{
-    Id: string;
-    Name : string;
-    Stock : number;
-    Price : number;
-    CreatedDate : Date;
-    UpdatedDate : Date;
+    id: string;
+    name : string;
+    stock : number;
+    price : number;
+    createdDate : Date;
+    updatedDate : Date;
 }
