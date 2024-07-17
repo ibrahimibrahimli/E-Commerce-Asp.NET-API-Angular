@@ -31,12 +31,13 @@
 
     <ng-container matColumnDef="delete">
       <th mat-header-cell *matHeaderCellDef width="30px"> </th>
-      <td mat-cell *matCellDef="let element"> <img src="../../../../../assets/images/delete.png" width="25px" style="cursor: pointer;" alt=""> </td>
+      <td mat-cell *matCellDef="let element"><!-- <img src="../../../../../assets/images/delete.png" width="25px" style="cursor: pointer;" alt=""
+         (click)="delete(element.id, $event)"> --></td >
     </ng-container>
 
     <ng-container matColumnDef="edit">
       <th mat-header-cell *matHeaderCellDef width="30px"> </th>
-      <td mat-cell *matCellDef="let element"> <img src="../../../../../assets/images/edit.png" width="25px" style="cursor: pointer;" alt=""> </td>
+      <td mat-cell *matCellDef="let element" appDelete> <img src="../../../../../assets/images/edit.png" width="25px" style="cursor: pointer;" alt=""> </td>
     </ng-container>
 
     <tr mat-header-row *matHeaderRowDef="displayedColumns"></tr>
