@@ -50,6 +50,11 @@ namespace E_Commerce.API.Controllers
 
         }
 
+
+
+
+
+
         [HttpPost]
         public async Task<IActionResult> Post(VMCreateProduct model)
         {
