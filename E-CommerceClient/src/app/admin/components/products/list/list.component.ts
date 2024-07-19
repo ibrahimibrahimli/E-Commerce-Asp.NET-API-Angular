@@ -7,7 +7,7 @@ import { BaseComponent, SpinnerType } from 'src/app/base/base.component';
 import { ProductList } from 'src/app/contracts/product/productList';
 import { AlertifyService, MessageType, Position } from 'src/app/services/admin/alertify.service';
 import { ProductService } from 'src/app/services/common/models/product.service';
-declare var $ : any
+declare var $: any
 
 @Component({
   selector: 'app-list',
@@ -22,10 +22,10 @@ export class ListComponent extends BaseComponent implements OnInit {
   displayedColumns: string[] = ['name', 'price', 'stock', 'createdDate', 'updatedDate', 'delete', 'edit'];
   dataSource: MatTableDataSource<ProductList> = null;
   @ViewChild(MatPaginator) paginator: MatPaginator;
-
+   
   async getProducts() {
     this.showSpinner(SpinnerType.BallAtom);
-    const allProducts: {totalCount : number, products : ProductList[]} = await this.productService.read(this.paginator? this.paginator.pageIndex : 0, this.paginator ? this.paginator.pageSize : 5, () => this.hideSpinner(SpinnerType.BallAtom), errorMessage => this.alertify.message(errorMessage, {
+    const allProducts: { totalCount: number, products: ProductList[] } = await this.productService.read(this.paginator ? this.paginator.pageIndex : 0, this.paginator ? this.paginator.pageSize : 5, () => this.hideSpinner(SpinnerType.BallAtom), errorMessage => this.alertify.message(errorMessage, {
       dismissOthers: true,
       messageType: MessageType.Error,
       position: Position.TopLeft
@@ -34,11 +34,8 @@ export class ListComponent extends BaseComponent implements OnInit {
     this.paginator.length = allProducts.totalCount
   }
 
-  // delete(id, event){
-  //   const img : HTMLImageElement = event.srcElement;
-  //   $(img.parentElement.parentElement).fadeOut(2000)    
-  // }
-  async pageChanged(){
+ 
+  async pageChanged() {
     await this.getProducts();
   }
 
