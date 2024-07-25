@@ -1,0 +1,8 @@
+<h2>Warning</h2>
+<mat-dialog-content>
+  <p>Are you sure?</p>
+</mat-dialog-content>
+<mat-dialog-actions>
+  <button mat-button (click)="close()">No</button>
+  <button mat-button [mat-dialog-close]="data" cdkFocusInitial>Yes, I'm Sure</button>
+</mat-dialog-actions>
